@@ -10,6 +10,6 @@ word = 'объектно-ориентированный'
 # составление слов
 print('Слово 1 :', word[:6])
 print('Слово 2 :', word[9:17])
-# print('Слово 3 :', word[])
-# print('Слово 4 :', word[])
-# print('Слово 5 :', word[])
+print('Слово 3 :', word[14:17])
+print('Слово 4 :', word[4] + word[7] + word[5])
+print('Слово 5 :', word[10] + word[3] + word[6] + word[5] + word[19])
